@@ -1,0 +1,11 @@
+com.example.android.materialme.app-appcompat-1.0.0-0 C:\Users\Raul\.gradle\caches\transforms-3\13eefdff2c4f3d6476dfc89a2650f15d\transformed\appcompat-1.0.0\res
+com.example.android.materialme.app-recyclerview-1.0.0-1 C:\Users\Raul\.gradle\caches\transforms-3\20506a52654f2d9dfa019df836471547\transformed\recyclerview-1.0.0\res
+com.example.android.materialme.app-coordinatorlayout-1.0.0-2 C:\Users\Raul\.gradle\caches\transforms-3\d4726d3f6947893f6451c082c8a540e4\transformed\coordinatorlayout-1.0.0\res
+com.example.android.materialme.app-core-1.0.0-3 C:\Users\Raul\.gradle\caches\transforms-3\d7e7b2a43084c0d6e22c71f518cf83f4\transformed\core-1.0.0\res
+com.example.android.materialme.app-pngs-4 C:\Users\Raul\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\build\generated\res\pngs\debug
+com.example.android.materialme.app-resValues-5 C:\Users\Raul\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\build\generated\res\resValues\debug
+com.example.android.materialme.app-mergeDebugResources-6 C:\Users\Raul\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.materialme.app-mergeDebugResources-7 C:\Users\Raul\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.materialme.app-merged_res-8 C:\Users\Raul\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\build\intermediates\merged_res\debug
+com.example.android.materialme.app-debug-9 C:\Users\Raul\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\src\debug\res
+com.example.android.materialme.app-main-10 C:\Users\Raul\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\MaterialMe-Starter\app\src\main\res

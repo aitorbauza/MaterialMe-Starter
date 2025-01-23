@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_badminton.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_badminton.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_running.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_running.jpg"
+    },
+    {
+        "merged": "com.example.android.materialme.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.android.materialme.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_ic_reset.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\ic_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_soccer.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_soccer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_cycling.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_cycling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_tennis.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_tennis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_golf.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_golf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_swimming.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_swimming.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_bowling.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_bowling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_tabletennis.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_tabletennis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_baseball.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_baseball.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-debug-31:\\drawable_img_basketball.jpg.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.7\\com.example.android.materialme.app-main-33:\\drawable\\img_basketball.jpg"
+    }
+]
